@@ -1,0 +1,7 @@
+/.bundle/
+/.vagrant/
+/vendor/
+/Gemfile.lock
+*.swp
+.DS_Store
+coverage/
